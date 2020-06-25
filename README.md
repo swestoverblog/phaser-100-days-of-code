@@ -1,8 +1,10 @@
-# Phaser 3 + TypeScript Template
-
-This is a basic Phaser 3 TypeScript template that uses ParcelJS.
+# Phaser 3 - 100 Days of Code
+This repo contains my code and log for the `#100DaysOfCode` challenge. This template was generated
 
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+## 100 Days of Code Log
+You can view the log of what I worked on each day here: [Log](Log.md)
 
 ## Requirements
 
